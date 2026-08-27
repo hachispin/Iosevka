@@ -6,9 +6,9 @@ node_modules
 .vscode
 
 # Build artifacts
-#.build
+.build
 #dist
-#release-archives
+release-archives
 
 # Test artifacts
 .test
